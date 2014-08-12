@@ -1,0 +1,24 @@
+{
+  "name": "migratejqm",
+  "version": "0.0.1",
+  "description": "Migration script from jquery-mobile 1.3 to 1.4",
+  "main": "migratejqm.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben Gamez <ruben.gamez@ed.ac.uk>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rgamez/migratejqm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rgamez/migratejqm/issues"
+  },
+  "homepage": "https://github.com/rgamez/migratejqm"
+}
